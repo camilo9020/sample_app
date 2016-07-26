@@ -1,6 +1,17 @@
-# Ruby on Rails Tutorial: sample application
+# Twitter-Clone
 
-This is the sample application for the
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+Is an app similar to twitter with the following features:
+
+*Athentication options, Signup and Sign In.
+*Account activation by email token.
+*Passsword Reset.
+
+If user is authenticate, can:
+
+* Do different kind of micropost, including images.
+* Follow other users.
+* Be Followed by other users.
+* At home can view the microposts of users that is following.
+
+ Heroku url Deploy: https://twitter-clone-jch.herokuapp.com/
+
